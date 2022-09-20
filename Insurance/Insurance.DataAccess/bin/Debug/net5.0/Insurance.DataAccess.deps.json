@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Insurance.DataAccess/1.0.0": {
+        "dependencies": {
+          "Insurance.Common": "1.0.0",
+          "JsonFlatFileDataStore": "2.3.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "Insurance.DataAccess.dll": {}
+        }
+      },
+      "JsonFlatFileDataStore/2.3.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/JsonFlatFileDataStore.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Insurance.Common/1.0.0": {
+        "runtime": {
+          "Insurance.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insurance.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JsonFlatFileDataStore/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fMuDoF5IXt6ThKtP6bXILfbewW8hjQdLm1MFPTHA+yxJ9Q2Fl82vH3Cqdbnb8FPHx+KBTyDzOAt6Cy+ANgEsiA==",
+      "path": "jsonflatfiledatastore/2.3.0",
+      "hashPath": "jsonflatfiledatastore.2.3.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Insurance.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

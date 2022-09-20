@@ -1,0 +1,12 @@
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\bin\Release\net5.0\Insurance.ApplicationCore.deps.json
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\bin\Release\net5.0\Insurance.ApplicationCore.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\bin\Release\net5.0\ref\Insurance.ApplicationCore.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\bin\Release\net5.0\Insurance.ApplicationCore.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.AssemblyInfo.cs
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\ref\Insurance.ApplicationCore.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Common\obj\Release\net5.0\Insurance.ApplicationCore.pdb

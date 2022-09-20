@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gx0X3qG5fxRQ1bofv4xy7qRez+mRI5poCWY5tkxnTnbk8irGdQ8BFJbMTrhgqrFe9/TOB0pbcyc/EEZGwpPIhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasitha.de.silva\\Documents\\Projects\\CodeShare\\Insurance\\Insurance.Common\\Insurance.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasitha.de.silva\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\hasitha.de.silva\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hasitha.de.silva\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hasitha.de.silva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

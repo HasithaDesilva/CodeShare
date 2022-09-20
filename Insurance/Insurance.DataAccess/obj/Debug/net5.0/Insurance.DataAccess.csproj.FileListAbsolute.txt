@@ -1,0 +1,15 @@
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\Insurance.DataAccess.deps.json
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\Insurance.DataAccess.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\ref\Insurance.DataAccess.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\Insurance.DataAccess.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\Insurance.Common.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\bin\Debug\net5.0\Insurance.Common.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.AssemblyInfo.cs
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.csproj.CopyComplete
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\ref\Insurance.DataAccess.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.DataAccess\obj\Debug\net5.0\Insurance.DataAccess.pdb

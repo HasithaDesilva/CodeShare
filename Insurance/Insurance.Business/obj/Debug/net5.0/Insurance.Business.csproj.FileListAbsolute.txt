@@ -1,0 +1,15 @@
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\Insurance.Business.deps.json
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\Insurance.Business.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\Insurance.Business.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\Insurance.ApplicationCore.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\Insurance.ApplicationCore.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.csproj.AssemblyReference.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.AssemblyInfoInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.AssemblyInfo.cs
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.csproj.CoreCompileInputs.cache
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.csproj.CopyComplete
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\ref\Insurance.Business.dll
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\obj\Debug\net5.0\Insurance.Business.pdb
+C:\Users\hasitha.de.silva\source\repos\Insurance\Insurance.Business\bin\Debug\net5.0\ref\Insurance.Business.dll

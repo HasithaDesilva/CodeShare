@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/InsuranceAPI/apis/insurancedata",
+      "type": "apis.azure",
+      "apiEndpoint": "https://insuranceapi.azure-api.net/v1"
+    }
+  }
+}
