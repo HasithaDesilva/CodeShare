@@ -3,6 +3,7 @@
 **Consideration and Decisions**
 
 Reusability
+
     Application components should be designed and developed in a way that those components should be re-suable in the future projects.
     
     Code
