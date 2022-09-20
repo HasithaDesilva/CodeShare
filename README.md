@@ -19,7 +19,7 @@ Extendibility
     The system is extendable due to the de-coupled architecture. The effort of adding new services or application would not require major changes to the architecture.
     
     
-**Limitations **
+**Limitations**
 
 If we keep json file scalability would be an issue. Mainly if we start writing to the file. Also, the performance would rely on reading the file and processing it. 
 
@@ -29,7 +29,7 @@ If we keep json file scalability would be an issue. Mainly if we start writing t
 Repository Design Pattern is used to separate the actual database, queries, and other data access logic from the rest of the application. Business logic can access the data object without having the knowledge of the underlying data access architecture. 
 
 
-**What you could have improved on **
+**What you could have improved on**
 
 Authentication and Authorization
 
